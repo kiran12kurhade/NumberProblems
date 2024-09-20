@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fceccafd-57dd-4709-8fa5-daee048d5bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumberProblems.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestOfThreeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestOfTwoNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PositiveAndNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PowerOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumNaturalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfGivenRangeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumofDigits.java" afterDir="false" />
-    </list>
+    <list default="true" id="fceccafd-57dd-4709-8fa5-daee048d5bdd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kiran12kurhade"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kiran12kurhade/NumberProblems.git",
+    "accountId": "a9ad313d-6d03-4012-b283-d5f870d2be78"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,35 +41,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Armstrong.executor": "Run",
-    "Application.BinaryToDecimal.executor": "Run",
-    "Application.EvenOrOdd.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.GreatestOfThreeNumber.executor": "Run",
-    "Application.GreatestOfTwoNumber.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.Palindrom.executor": "Run",
-    "Application.PositiveAndNegative.executor": "Run",
-    "Application.PowerOfNumber.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.SumNaturalNumber.executor": "Run",
-    "Application.SumofDigits.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryToDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestOfThreeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestOfTwoNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveAndNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumNaturalNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumofDigits.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -101,6 +89,7 @@
       <workItem from="1726051839838" duration="3591000" />
       <workItem from="1726120160724" duration="638000" />
       <workItem from="1726122182443" duration="14461000" />
+      <workItem from="1726820338762" duration="421000" />
     </task>
     <servers />
   </component>
